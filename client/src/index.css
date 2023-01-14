@@ -1,0 +1,19 @@
+
+body {
+    background-color: #f7f8fc;
+    margin: 0 !important;
+    background: #02325c ;
+   
+}
+html{
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    margin: 0 !important;
+    background: #02325c ;
+
+}
+* {
+    /* font-family: 'Noto Sans JP' !important; */
+    font-family: 'Heebo', sans-serif !important;
+ 
+}

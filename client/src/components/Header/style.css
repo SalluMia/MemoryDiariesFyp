@@ -1,0 +1,9 @@
+header{
+    background: url(..//../images/bg.jpg);
+    background-position: center;
+    background-color: rgba(10, 10, 84, 0.168);
+    background-size: cover;
+    background-blend-mode: darken;
+    margin: 20px;
+    border-radius: 8px;
+}
